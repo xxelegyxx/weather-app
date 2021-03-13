@@ -10,4 +10,4 @@ Past history is saved into local storage. The last searched city will load upon 
 
 ## screenshots
 
- - ![image](https://user-images.githubusercontent.com/24512590/71652236-395ecf80-2ce1-11ea-88d3-6dd85007ba24.png)
+ - ![image](https://github.com/xxelegyxx/weather-app/blob/main/06-server-side-apis-homework-demo.png)
